@@ -1,0 +1,6 @@
+#How can we make one of the parameter as mandatory ?
+Parameters:
+  Environment:
+    Description: "Stack Name for Isolation"
+    Type: String
+    AllowedPattern: ".+"
